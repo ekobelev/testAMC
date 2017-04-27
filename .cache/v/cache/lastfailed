@@ -1,0 +1,5 @@
+{
+  "ENV/Lib/site-packages/wheel/test/test_basic.py::test_pydist": true, 
+  "ENV/Lib/site-packages/wheel/test/test_tool.py::test_keygen": true, 
+  "ENV/Lib/site-packages/wheel/test/test_wheelfile.py::test_zipfile_attributes": true
+}
